@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>SNC Cookies</name>
+        <description>GDPR Cookie Consent Module</description>
+        <element>mod_snc_cookies</element>
+        <type>module</type>
+        <version>1.0.1</version>
+        <downloads>
+            <downloadurl type="full" format="zip">
+                https://github.com/StevenN1987/mod_snc_cookies/releases/download/v1.0.1/mod_snc_cookies.zip
+            </downloadurl>
+        </downloads>
+        <targetplatform name="joomla" version="6.*"/>
+        <targetplatform name="joomla" version="5.*"/>
+    </update>
+</updates>
+
